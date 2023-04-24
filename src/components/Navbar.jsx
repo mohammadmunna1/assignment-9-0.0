@@ -8,7 +8,7 @@ const Navbar = () => {
             <div className="navbar py-4 px-4 lg:px-8 xl:px-16  bg-indigo-50">
   <div className="navbar-start">
     
-    <a className=" font-bold text-2xl">JobLanding</a>
+    <a className=" font-bold text-2xl">DreamJobHub</a>
   </div>
   <div className="navbar-center lg:flex">
     <ul className="lg:flex gap-6 px-1">
