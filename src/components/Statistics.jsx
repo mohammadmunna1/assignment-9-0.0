@@ -16,31 +16,31 @@ const Statistics = () => {
     const data = [
         {
           name: "Assignment-1",
-          assignmentMark: 42 , 
-        },
-        {
-          name: "Assignment-2",
-          assignmentMark: 48 , 
-        },
-        {
-          name: "Assignment-3",
-          assignmentMark: 49 , 
-        },
-        {
-          name: "Assignment-4",
-          assignmentMark: 45 , 
-        },
-        {
-          name: "Assignment-5",
           assignmentMark: 60 , 
         },
         {
+          name: "Assignment-2",
+          assignmentMark: 60 , 
+        },
+        {
+          name: "Assignment-3",
+          assignmentMark: 48 , 
+        },
+        {
+          name: "Assignment-4",
+          assignmentMark: 60 , 
+        },
+        {
+          name: "Assignment-5",
+          assignmentMark: 36 , 
+        },
+        {
           name: "Assignment-6",
-          assignmentMark: 45 , 
+          assignmentMark: 51 , 
         },
         {
           name: "Assignment-7",
-          assignmentMark: 56 , 
+          assignmentMark: 50 , 
         },
         {
           name: "Assignment-8",

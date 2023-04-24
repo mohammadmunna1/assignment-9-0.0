@@ -24,7 +24,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className=" text-white bg-violet-700 text-xl p-2 rounded">Start Applying</a>
+    <a className=" text-white bg-violet-600 text-xl p-2 rounded">Start Applying</a>
   </div>
 </div>
 </div>
