@@ -41,8 +41,8 @@ const Header = () => {
         <div>
             <div className="flex flex-col lg:flex-row justify-between py-4 px-4 lg:px-8 xl:px-16  bg-indigo-50">
       <div>
-        <h1 className="text-4xl font-bold mt-4">One Step <br /> Closer To Your <br />
-        <span className=' text-blue-400'> Dream Job</span></h1>
+        <h1 className="text-4xl font-bold mt-4">Just One Step <br /> Closer To Your <br />
+        <span className=' text-blue-400'> Future Job</span></h1>
         <p className='mt-4 text-gray-500'>Explore thousands of job opportunities with all the <br /> information you need. Its your future. Come find it. Manage all your job application from start to finish.</p>
         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-3 lg:py-2 lg:px-4 rounded mt-4">
         Get Started
@@ -53,7 +53,7 @@ const Header = () => {
       </div>
       </div>
       <div>
-        <p className=' font-semibold text-4xl text-center mt-6 mb-2'>Job Category List</p>
+        <p className=' font-semibold text-4xl text-center mt-6 mb-2'>Job List</p>
         <p className='text-sm text-gray-500 text-center mb-12'>Explore thousands of job opportunities with all the information you need. Its your future</p>
         <div className='grid gap-6 mb-8 lg:grid-cols-4 sm:grid-cols-2 py-4 px-4 lg:px-8 xl:px-16'> 
           {
