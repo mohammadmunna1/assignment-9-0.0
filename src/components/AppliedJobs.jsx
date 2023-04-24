@@ -23,7 +23,7 @@ const AppliedJobs = () => {
                 <div className="dropdown dropdown-hover mt-6 lg:ms-[1075px] text-center  rounded object-cover">
                     <label tabIndex={0} className="bg-slate-400 rounded p-4 px-4 m-1">Filter</label>
                     <ul tabIndex={0} className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
-                        <li><a onClick={() => filterhandler('Onsite')}>Onsite</a></li>
+                        <li><a onClick={() => filterhandler('Onsite')}>Physical</a></li>
                         <li><a onClick={() => filterhandler('Remote')}>Remote</a></li>
                     </ul>
                 </div>
