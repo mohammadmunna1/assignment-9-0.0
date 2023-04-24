@@ -8,10 +8,10 @@ const Navbar = () => {
             <div className="navbar py-4 px-4 lg:px-8 xl:px-16  bg-indigo-50">
   <div className="navbar-start">
     
-    <a className=" font-bold text-2xl">DreamJobHub</a>
+    <a className=" font-bold text-2xl text-lime-400">DreamJobHub</a>
   </div>
   <div className="navbar-center lg:flex">
-    <ul className="lg:flex gap-6 px-1">
+    <ul className="lg:flex gap-6 px-1 text-lime-400">
               <li>
                 <NavLink to='/' className={({isActive}) => (isActive ? 'text-blue-400' : '' )} >Home</NavLink>
             </li>
@@ -24,7 +24,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className=" text-white bg-violet-700 text-xl p-2 rounded">Start Applying</a>
+    <a className=" text-white text-xl p-2 rounded text-lime-400">Start Applying</a>
   </div>
 </div>
 </div>
