@@ -6,7 +6,7 @@ const SingleJob = (props) => {
     return (
         <div>
             {/* <p>{props.handleappliedjob}</p> */}
-            <p className='text-center text-2xl font-bold p-12 bg-indigo-50'>Job Details</p>
+            <p className='text-center text-2xl font-bold p-12 bg-indigo-50'>Job Full Details</p>
             <div className='grid gap-6 -mb-1 lg:grid-cols-2 sm:grid-cols-1 py-4 px-4 mx-16 lg:px-8 xl:px-16 mt-5'>
             <div>
               <p className=' text-gray-700 text-sm'><span className='font-bold text-lg'>Job Description:</span> {jobDescription}</p>
